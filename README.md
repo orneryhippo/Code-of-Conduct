@@ -11,7 +11,7 @@ Participates in the Mailing Lists or other public forums are not required to fol
 4. Core Developers
 All of the current core developers have pledged to follow this rule. The public is invited to call us out if we are seen in breach of the rule, especially with regards to our interaction with mailing list participates and/or general users.
 
-In the future, should someone wish to become a core developer and is in every way qualified except that he or she does not feel comfortable with some details of this rule, then appropriate adjustments will be made at that point.
+
 
 ## The Rule
 
