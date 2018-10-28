@@ -1,6 +1,5 @@
 # Code Of Conduct
-1. Overview
-Having been encouraged by clients to adopt a written code of conduct, the SQLite developers elected to govern their interactions with each other, with their clients, and with the larger user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict. This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
+1. Overview: Having been encouraged by clients to adopt a written code of conduct, the SQLite developers elected to govern their interactions with each other, with their clients, and with the larger user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict. This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
 
 2. Users of the Code
 This rule applies to developers, not to users of the code. Everyone is free to use the source code, object code, and/or documentation regardless of their opinion of and adherence to this rule. This has been and continues to be completely free to everyone, without precondition.
